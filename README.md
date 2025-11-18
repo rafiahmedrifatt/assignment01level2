@@ -51,4 +51,3 @@ Right
 
 let move = Direction.Up;
 console.log(move);
-# assignment01level2
